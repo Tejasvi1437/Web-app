@@ -1,0 +1,2 @@
+# For a simple HTTP server in Python
+Flask==3.0.0  # Optional, if you want a Python-based web server
